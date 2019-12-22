@@ -1,0 +1,11 @@
+.captcha-container {
+    padding-top: 100px;
+}
+
+.captcha-button {
+    margin-left: 5px;
+}
+
+.captcha-image {
+    border: 1px solid black;
+}
